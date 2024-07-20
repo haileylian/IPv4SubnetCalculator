@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.calculator","l":"IPAddress"},{"p":"org.calculator","l":"SubnetCalculator"},{"p":"org.calculator","l":"SubnetCalculatorApp"},{"p":"org.calculator","l":"SubnetDetails"}];updateSearchResults();
