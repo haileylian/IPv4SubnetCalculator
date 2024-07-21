@@ -2,6 +2,8 @@
 
 The IPv4 Subnet Calculator is a Java application that allows users to calculate subnet details based on an IPv4 address and subnet mask provided in CIDR notation. The application features a graphical user interface (GUI) for ease of use and provides essential subnet information, including the network address, broadcast address, number of hosts, and IP class.
 
+![Subnet Calculator Diagram](preview/ip_calculator.png)
+
 ## Features
 
 - **IPv4 Address Validation**: Ensures that the provided IP address is valid.
@@ -10,13 +12,6 @@ The IPv4 Subnet Calculator is a Java application that allows users to calculate 
 - **IP Class Identification**: Determines and displays the IP class (A, B, C, D, E).
 - **Graphical User Interface (GUI)**: Built using Swing for a user-friendly interface.
 - **CIDR Notation Support**: Accepts input in CIDR notation (e.g., `192.168.1.1/24`).
-- **Technology Stack**:
-  - **Java**: The core programming language used for the application.
-  - **Swing**: Used for building the graphical user interface.
-  - **Javadoc**: Used for code documentation.
-  - **Git**: Version control system for tracking changes and collaboration.
-  - **GitHub**: Hosting the source code and project repository.
-
 
 ## Usage
 1. Launch the application.
